@@ -18,8 +18,8 @@ React 18 · Vite 5 · ES6+ · Tailwind CSS
 1. **Clone & install**
 
    ```bash
-   git clone https://github.com/<your-username>/form-validation-vite-react.git
-   cd form-validation-vite-react
+   git clone https://github.com/<your-username>/Form-validation.git
+   cd Form-validation
    npm install
    ```
 2. **Run locally**
