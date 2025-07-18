@@ -67,7 +67,7 @@ const App = () => {
     <>
 
       <div className="main flex items-center justify-center h-screen w-full">
-        <div className="form-container bg-white h-[60vh] w-96 rounded-lg flex flex-col justify-center gap-2 px-8">
+        <div className="shadow-2xl form-container bg-gray-300 h-[60vh] w-96 rounded-[30px] flex flex-col justify-center gap-2 px-8">
           <h1 className="text-2xl font-bold text-center mb-4">
             Create an Account
           </h1>
